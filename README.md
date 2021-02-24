@@ -1,4 +1,3 @@
-# checkpoints.csv
 # Checkpoints
 # How To Sync your Blockchain Quickly
 # Sync a new chain from 0 by loading  checkpoints with your daemon.
