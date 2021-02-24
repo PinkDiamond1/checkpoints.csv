@@ -19,9 +19,8 @@
 - Alternatively, your file manager may be able to open a terminal in your current directory. Navigate to the folder with QbitNetworkd in, and try right clicking, to see if you can open a terminal there:
 -Add checkpoints.csv to src; As you can see checkpoints.csv and QbitNetworkd are both in this directory.
 <br>
-<br>
 ![Finding QbitNetworkd](Screenshot_29.png)
-
+<br>
 - Finally, type `./QbitNetworkd --load-checkpoints checkpoints.csv` in the terminal.<br>
 
  You may also add:  ./QbitNetworkd  --load-checkpoints checkpoints.csv --enable-blockexplorer --enable-cors="*" --rpc-bind-ip=0.0.0.0 --rpc-bind-port=20101 --fee-amount 10 --fee-address QBC9V3fD5orFayFPLDYxbhVD2m2ZamJL81XRde1iKa4eHFyEvkzeTy541QwB8RTKzz1sy6pFouk7K8fxBkcqkSw44BiBPBSYms
