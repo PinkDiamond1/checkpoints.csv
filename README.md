@@ -9,7 +9,7 @@
 - You can get QbitNetworkd from here if you don't have it already: https://github.com/QbitNetwork/Qbit.git
 - Make sure you shut down any GUI wallets, or any other instances of QbitNetworkd.
 
-  -Help is available on Telegram at: https://t.me/Qbitcurrency
+  <a href="https://t.me/Qbitcurrency">Help is available on Telegram </a>
 
 
 # Linux, Apple
