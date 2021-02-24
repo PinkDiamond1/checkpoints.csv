@@ -21,7 +21,7 @@
 
 # Finding QbitNetworkd 
 <br>
-<br>
+
 <img src="https://github.com/QbitNetwork/checkpoints.csv/blob/main/Screenshot_29.png" alt="Qbit screenshot">
 
 - Finally, type ./QbitNetworkd --load-checkpoints checkpoints.csv  in the terminal.<br>
