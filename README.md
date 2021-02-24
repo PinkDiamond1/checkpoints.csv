@@ -19,7 +19,7 @@
 - Alternatively, your file manager may be able to open a terminal in your current directory. Navigate to the folder with QbitNetworkd in, and try right clicking, to see if you can open a terminal there:
 -Add checkpoints.csv to src; As you can see checkpoints.csv and QbitNetworkd are both in this directory.
 <br>
-![Finding QbitNetworkd] (https://github.com/QbitNetwork/checkpoints.csv/blob/main/Screenshot_29.png)
+![Finding QbitNetworkd] (Screenshot_29.png)
 
 - Finally, type ./QbitNetworkd --load-checkpoints checkpoints.csv  in the terminal.<br>
 
