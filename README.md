@@ -18,7 +18,7 @@
 - You can use the `cd` command to change to this directory.  cd Qbit/build/src   You should find QbitNetworkd in this directory
 - Alternatively, your file manager may be able to open a terminal in your current directory. Navigate to the folder with QbitNetworkd in, and try right clicking, to see if you can open a terminal there:
 - 
-![Finding QbitNetworkd]()
+![Finding QbitNetworkd](Screenshot_29.png)
 
 - Finally, type `./QbitNetworkd --load-checkpoints checkpoints.csv` in the terminal.<br>
 
