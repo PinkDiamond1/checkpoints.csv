@@ -9,7 +9,7 @@
 - You can get QbitNetworkd from here if you don't have it already: https://github.com/QbitNetwork/Qbit.git
 - Make sure you shut down any GUI wallets, or any other instances of QbitNetworkd.
 
--Help is available on Telegram at: https://t.me/Qbitcurrency
+  -Help is available on Telegram at: https://t.me/Qbitcurrency
 
 
 # Linux, Apple
@@ -20,8 +20,9 @@
 
 ![Opening terminal](https://i.imgur.com/Rd5TmQc.png)
 
-- Finally, type `./QbitNetworkd --load-checkpoints checkpoints.csv` in the terminal.
-  you may also add:  ./QbitNetworkd  --load-checkpoints checkpoints.csv --enable-blockexplorer --enable-cors="*" --rpc-bind-ip=0.0.0.0 --rpc-bind-port=20101 --fee-amount 10 --fee-address QBC9V3fD5orFayFPLDYxbhVD2m2ZamJL81XRde1iKa4eHFyEvkzeTy541QwB8RTKzz1sy6pFouk7K8fxBkcqkSw44BiBPBSYms
+- Finally, type `./QbitNetworkd --load-checkpoints checkpoints.csv` in the terminal.<br>
+
+ You may also add:  ./QbitNetworkd  --load-checkpoints checkpoints.csv --enable-blockexplorer --enable-cors="*" --rpc-bind-ip=0.0.0.0 --rpc-bind-port=20101 --fee-amount 10 --fee-address QBC9V3fD5orFayFPLDYxbhVD2m2ZamJL81XRde1iKa4eHFyEvkzeTy541QwB8RTKzz1sy6pFouk7K8fxBkcqkSw44BiBPBSYms
 
 # Expected Output
 
