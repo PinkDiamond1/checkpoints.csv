@@ -19,6 +19,8 @@
 
 # Linux, Apple
 
+- Download with curl on command line in linux curl https://raw.githubusercontent.com/QbitNetwork/checkpoints.csv/main/checkpoints.csv -o checkpoints.csv
+
 - First, open a command prompt in the same directory as QbitNetworkd.
 - You can use the `cd` command to change to this directory.  cd Qbit/build/src   You should find QbitNetworkd in this directory
 - Alternatively, your file manager may be able to open a terminal in your current directory. Navigate to the folder with QbitNetworkd in, and try right clicking, to see if you can open a terminal there:
